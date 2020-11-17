@@ -12,5 +12,5 @@ namespace KutuPatlatmaOyunu
         public int engelCan { get; set; }
         public bool carpilabilmeDurumu { get; set; }
     }
-
+  
 }
